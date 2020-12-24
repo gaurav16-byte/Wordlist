@@ -1,9 +1,9 @@
-#This creates wordlists based on your arguments
+# This creates wordlists based on your arguments
 
-##Argument order is 
+## Argument order is 
 
 '''
-[len] [word] [filename]
+ [len] [word] [filename]
 '''
 
 *Next update will contain support for multiple words but for now provide the characters as required. *
