@@ -1,7 +1,6 @@
 # [len]--1 chars--2 name_of_file--3
-from itertools import permutations
+from itertools import product
 import sys
-import pdb
 import os
 filename = os.getenv('HOME') + '/' + sys.argv[3]
 b = []
@@ -13,7 +12,7 @@ else:
 	words = sys.argv[2].split(sep = ',')
 	password = ''
 	for word in words:
-		p = permutations(word,int(sys.argv[1]))
+		p = product(word,repeat = int(sys.argv[1]))
 		for i in p:
 			b = list(i)
 			for j in b:
