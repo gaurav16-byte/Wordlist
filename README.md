@@ -1,3 +1,4 @@
+### Read Changelog file
 # This creates wordlists based on your arguments
 
 ## Argument order is 
