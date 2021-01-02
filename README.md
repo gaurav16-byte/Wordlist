@@ -3,9 +3,7 @@
 
 ## Argument order is 
 
-'''
- --type [len] [word] [filename]
-'''
+'--type [len] [word] [filename] '
 
 *Next update will contain support for multiple words but for now provide the characters as required. *
 **Advantage over crunch tool - Less size wordlist completely based on Python_3**
