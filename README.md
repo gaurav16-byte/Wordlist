@@ -4,7 +4,7 @@
 ## Argument order is 
 
 '''
- [len] [word] [filename]
+ --type [len] [word] [filename]
 '''
 
 *Next update will contain support for multiple words but for now provide the characters as required. *
