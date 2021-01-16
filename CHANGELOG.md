@@ -1,4 +1,5 @@
 # Added P&C passwords!
+# Added Pattern suppport!
 ### All potential passwords that can be created by the given characters
 
 ## **Remember! faster than crunch **
@@ -9,3 +10,7 @@
 ### --pr To create passwords that can be created with all possible permutations
 ### --c To crate passwords with all possible combinations without replacement 
 ### --cr To create passwords with all possible positins with replacement i.e length = 4, passwords are 4x4x4x4=256
+
+'''Pattern usage'''
+### ???text or text???
+## The length of the password and that of the pattern should be the same
