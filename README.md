@@ -4,8 +4,11 @@
 ## Argument order is 
 
 '--type [len] [word] [filename] --t [pattern]'
+
 pattern is in the order ???text or text???
+
 It is not compulsary to use the pattern argument.
+
 **The length of the password and pattern length should be same**
 
 *Next update will contain support for multiple words but for now provide the characters as required. *
